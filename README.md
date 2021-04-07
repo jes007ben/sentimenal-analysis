@@ -20,7 +20,3 @@ Since the 2016 US elections, the possibility of interference of twitter automate
 * Sentiment Analysis
 * Docker Container
 * GCP Cloud Builder
-
-## Project Details
-
-[Link](https://github.com/liebycardoso/twitterstreamkubernetes/blob/master/FinalWrittenReport.pdf)
