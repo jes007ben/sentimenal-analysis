@@ -6,7 +6,7 @@ Since the 2016 US elections, the possibility of interference of twitter automate
 
 
 ## Overview
-![Image](https://github.com/liebycardoso/twitterstreamkubernetes/blob/master/IMG/structure.jpg)
+[Image]
 
 ## Technologies used
 
