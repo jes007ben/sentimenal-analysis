@@ -6,7 +6,8 @@ Since the 2016 US elections, the possibility of interference of twitter automate
 
 
 ## Overview
-[Image]
+![structure](https://github.com/jes007ben/sentimenal-analysis/blob/main/IMG/structure.jpg)
+
 
 ## Technologies used
 
